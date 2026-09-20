@@ -1,0 +1,59 @@
+{
+  "name": "synthetic-underdetermined",
+  "imageStars": [
+    {
+      "id": "img-001",
+      "x": 155.338,
+      "y": 439.35,
+      "flux": 28325
+    },
+    {
+      "id": "img-002",
+      "x": 383.539,
+      "y": 374.174,
+      "flux": 33105
+    },
+    {
+      "id": "sat-1",
+      "x": 806.395,
+      "y": 368.521,
+      "flux": 65535,
+      "saturated": true
+    },
+    {
+      "id": "streak-1",
+      "x": 530,
+      "y": 202.964,
+      "flux": 1155
+    }
+  ],
+  "catalogStars": [
+    {
+      "id": "cat-001",
+      "ra": 299.7423855,
+      "dec": -40.1560298,
+      "mag": 7.15
+    },
+    {
+      "id": "cat-002",
+      "ra": 300.0435021,
+      "dec": -40.1404189,
+      "mag": 7.58
+    },
+    {
+      "id": "cat-x-01",
+      "ra": 302.1194198,
+      "dec": -41.3409486,
+      "mag": 9.24
+    }
+  ],
+  "truth": {
+    "ra0": 300,
+    "dec0": -40,
+    "rotationDeg": 12,
+    "mirror": false,
+    "scaleArcsecPx": 3.5,
+    "width": 640,
+    "height": 480
+  }
+}

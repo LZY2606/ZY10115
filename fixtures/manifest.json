@@ -1,0 +1,17 @@
+{
+  "generatedBy": "tools/gen-fixtures.ts",
+  "generatorSeedInputs": [
+    20250921,
+    20250922,
+    20250923,
+    20250924,
+    20250925
+  ],
+  "datasets": [
+    "synthetic-standard",
+    "synthetic-mirror",
+    "synthetic-ra-seam",
+    "synthetic-sparse",
+    "synthetic-underdetermined"
+  ]
+}

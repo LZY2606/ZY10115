@@ -34,3 +34,12 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# --- 本项目运行数据/临时文件 ---
+data/*.sqlite
+data/*.sqlite-journal
+data/*.sqlite-wal
+data/*.sqlite-shm
+.tmp-scratch/
+.tmp-data/
+*.tmp.ts
